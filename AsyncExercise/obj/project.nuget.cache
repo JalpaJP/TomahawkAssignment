@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afVCiLJt2m0qdUppGndY36Va9rGJraRz1+w30XgWXcvYDJukp/xF8VGKt0xEXwIuxaKHE+2y9gqF9/H7pRmK2w==",
+  "success": true,
+  "projectFilePath": "D:\\2021\\selfstudy\\Async_exercises\\AsyncExercise\\AsyncExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jalpa.patel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
